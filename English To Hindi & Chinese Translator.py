@@ -473,10 +473,6 @@ translations_dict = {
         "Chinese (Simplified)": "帮助 (bāng zhù)",
         "Hindi": "मदद (madad)"
     },
-    "goodbye": {
-        "Chinese (Simplified)": "再见 (zài jiàn)",
-        "Hindi": "अलविदा (alvida)"
-    },
     "father": {
         "Chinese (Simplified)": "父亲 (fù qīn)",
         "Hindi": "पिता (pita)"
@@ -2316,10 +2312,6 @@ translations_dict = {
     "yours": {
         "Chinese (Simplified)": "你的 (nǐ de)",
         "Hindi": "तुम्हारा (tumhara)"
-    },
-    "his": {
-        "Chinese (Simplified)": "他的 (tā de)",
-        "Hindi": "उसका (uska)"
     },
     "hers": {
         "Chinese (Simplified)": "她的 (tā de)",
@@ -12276,10 +12268,6 @@ translations_dict = {
         "Chinese (Simplified)": "贡献 (gòng xiàn)",
         "Hindi": "योगदान देना (yogdan dena)"
     },
-    "contribution": {
-        "Chinese (Simplified)": "贡献 (gòng xiàn)",
-        "Hindi": "योगदान (yogdan)"
-    },
     "contributors": {
         "Chinese (Simplified)": "贡献者 (gòng xiàn zhě)",
         "Hindi": "योगदानकर्ता (yogdan karta)"
@@ -13316,6 +13304,1818 @@ translations_dict = {
         "Chinese (Simplified)": "降雪 (jiàng xuě)",
         "Hindi": "बर्फबारी (barfbaari)"
     },
+    "boil": {
+        "Hindi": "उबालना",
+        "Chinese (Simplified)": "煮 (Zhǔ)"
+    },
+    "drop out": {
+        "Hindi": "छोड़ना",
+        "Chinese (Simplified)": "退学 (Tuìxué)"
+    },
+    "south asian": {
+        "Hindi": "दक्षिण एशियाई",
+        "Chinese (Simplified)": "南亚 (Nányà)"
+    },
+    "descent": {
+        "Hindi": "वंश",
+        "Chinese (Simplified)": "血统 (Xuètǒng)"
+    },
+    "unadulterated": {
+        "Hindi": "अमिश्रित",
+        "Chinese (Simplified)": "纯粹的 (Chúncuì de)"
+    },
+    "adulterated": {
+        "Hindi": "मिलावटी",
+        "Chinese (Simplified)": "掺假的 (Chānjiǎ de)"
+    },
+    "definition": {
+        "Hindi": "परिभाषा",
+        "Chinese (Simplified)": "定义 (Dìngyì)"
+    },
+    "revise": {
+        "Hindi": "पुनरावलोकन करना",
+        "Chinese (Simplified)": "修订 (Xiūdìng)"
+    },
+    "revision": {
+        "Hindi": "संशोधन",
+        "Chinese (Simplified)": "修订 (Xiūdìng)"
+    },
+    "colony": {
+        "Hindi": "औपनिवेश",
+        "Chinese (Simplified)": "殖民地 (Zhímíndì)"
+    },
+    "colonize": {
+        "Hindi": "उपनिवेश बनाना",
+        "Chinese (Simplified)": "殖民 (Zhímín)"
+    },
+    "genocide": {
+        "Hindi": "नरसंहार",
+        "Chinese (Simplified)": "种族灭绝 (Zhǒngzú mièjué)"
+    },
+    "igneous": {
+        "Hindi": "आग्नेय",
+        "Chinese (Simplified)": "火成的 (Huǒchéng de)"
+    },
+    "indigenous": {
+        "Hindi": "स्वदेशी",
+        "Chinese (Simplified)": "土著的 (Tǔzhù de)"
+    },
+    "meant": {
+        "Hindi": "अर्थ",
+        "Chinese (Simplified)": "意思是 (Yìsi shì)"
+    },
+    "exact": {
+        "Hindi": "सटीक",
+        "Chinese (Simplified)": "精确的 (Jīngquè de)"
+    },
+    "aspect": {
+        "Hindi": "पहलू",
+        "Chinese (Simplified)": "方面 (Fāngmiàn)"
+    },
+    "assets": {
+        "Hindi": "संपत्तियां",
+        "Chinese (Simplified)": "资产 (Zīchǎn)"
+    },
+    "exactly": {
+        "Hindi": "बिल्कुल",
+        "Chinese (Simplified)": "确切地 (Quèqiè de)"
+    },
+    "derogatory": {
+        "Hindi": "अपमानजनक",
+        "Chinese (Simplified)": "贬义的 (Biǎnyì de)"
+    },
+    "label": {
+        "Hindi": "लेबल",
+        "Chinese (Simplified)": "标签 (Biāoqiān)"
+    },
+    "colloquially": {
+        "Hindi": "बोलचाल की भाषा में",
+        "Chinese (Simplified)": "口语化地 (Kǒuyǔ huà de)"
+    },
+    "derived": {
+        "Hindi": "व्युत्पन्न",
+        "Chinese (Simplified)": "源自 (Yuán zì)"
+    },
+    "mainly": {
+        "Hindi": "मुख्य रूप से",
+        "Chinese (Simplified)": "主要是 (Zhǔyào shì)"
+    },
+    "slang": {
+        "Hindi": "चलन शब्द",
+        "Chinese (Simplified)": "俚语 (Lǐyǔ)"
+    },
+    "personal": {
+        "Hindi": "निजी",
+        "Chinese (Simplified)": "个人的 (Gèrén de)"
+    },
+    "identity": {
+        "Hindi": "पहचान",
+        "Chinese (Simplified)": "身份 (Shēnfèn)"
+    },
+    "infect": {
+        "Hindi": "संक्रमित करना",
+        "Chinese (Simplified)": "感染 (Gǎnrǎn)"
+    },
+    "infact": {
+        "Hindi": "वास्तव में",
+        "Chinese (Simplified)": "实际上 (Shíjì shàng)"
+    },
+    "shape": {
+        "Chinese (Simplified)": "形状 (xíng zhuàng)",
+        "Hindi": "आकृति (aakriti)"
+    },
+    "tape": {
+        "Chinese (Simplified)": "胶带 (jiāo dài)",
+        "Hindi": "टेप (tep)"
+    },
+    "cape": {
+        "Chinese (Simplified)": "斗篷 (dǒu péng)",
+        "Hindi": "लबादा (labaada)"
+    },
+    "nap": {
+        "Chinese (Simplified)": "小睡 (xiǎo shuì)",
+        "Hindi": "झपकी (jhapki)"
+    },
+    "infection": {
+        "Hindi": "संक्रमण",
+        "Chinese (Simplified)": "感染 (Gǎnrǎn)"
+    },
+    "alphabet": {
+        "Hindi": "वर्णमाला",
+        "Chinese (Simplified)": "字母表 (Zìmǔ biǎo)"
+    },
+    "insert": {
+        "Hindi": "डालना",
+        "Chinese (Simplified)": "插入 (Chārù)"
+    },
+    "though": {
+        "Hindi": "हालांकि",
+        "Chinese (Simplified)": "虽然 (Suīrán)"
+    },
+    "transfer": {
+        "Hindi": "स्थानांतरण",
+        "Chinese (Simplified)": "转移 (Zhuǎnyí)"
+    },
+    "disclaimer": {
+        "Hindi": "अस्वीकरण",
+        "Chinese (Simplified)": "免责声明 (Miǎnzé shēngmíng)"
+    },
+    "statistics": {
+        "Hindi": "आंकड़े",
+        "Chinese (Simplified)": "统计数据 (Tǒngjì shùjù)"
+    },
+    "license": {
+        "Hindi": "लाइसेंस",
+        "Chinese (Simplified)": "许可证 (Xǔkě zhèng)"
+    },
+    "internal": {
+        "Hindi": "आंतरिक",
+        "Chinese (Simplified)": "内部的 (Nèibù de)"
+    },
+    "external": {
+        "Hindi": "बाहरी",
+        "Chinese (Simplified)": "外部的 (Wàibù de)"
+    },
+    "did you know": {
+        "Hindi": "क्या आप जानते हैं",
+        "Chinese (Simplified)": "你知道吗 (Nǐ zhīdào ma)"
+    },
+    "blunder": {
+        "Hindi": "ग़लती",
+        "Chinese (Simplified)": "错误 (Cuòwù)"
+    },
+    "except": {
+        "Hindi": "सिवाय",
+        "Chinese (Simplified)": "除了 (Chúle)"
+    },
+    "over": {
+        "Hindi": "ऊपर",
+        "Chinese (Simplified)": "超过 (Chāoguò)"
+    },
+    "shut": {
+        "Hindi": "बंद",
+        "Chinese (Simplified)": "关闭 (Guānbì)"
+    },
+    "lock pick": {
+        "Hindi": "ताला खोलना",
+        "Chinese (Simplified)": "开锁 (Kāi suǒ)"
+    },
+    "loudness": {
+        "Hindi": "आवाज़",
+        "Chinese (Simplified)": "响度 (Xiǎng dù)"
+    },
+    "bound": {
+        "Hindi": "बँधना",
+        "Chinese (Simplified)": "绑定 (Bǎngdì)"
+    },
+    "client": {
+        "Hindi": "ग्राहक",
+        "Chinese (Simplified)": "客户 (Kèhù)"
+    },
+    "flint": {
+        "Hindi": "चूना पत्थर",
+        "Chinese (Simplified)": "燧石 (Suì shí)"
+    },
+    "gravel": {
+        "Hindi": "गिट्टी",
+        "Chinese (Simplified)": "碎石 (Suì shí)"
+    },
+    "night owl": {
+        "Hindi": "रात का उल्लू",
+        "Chinese (Simplified)": "夜猫子 (Yè māo zi)"
+    },
+    "enthusiast": {
+        "Hindi": "उत्साही",
+        "Chinese (Simplified)": "爱好者 (Ài hào zhě)"
+    },
+    "merry": {
+        "Hindi": "खुश",
+        "Chinese (Simplified)": "快乐 (Kuàilè)"
+    },
+    "prosperous": {
+        "Hindi": "समृद्ध",
+        "Chinese (Simplified)": "繁荣 (Fánróng)"
+    },
+    "conference": {
+        "Hindi": "सम्मेलन",
+        "Chinese (Simplified)": "会议 (Huìyì)"
+    },
+    "anticheat": {
+        "Hindi": "एंटीचिटिंग",
+        "Chinese (Simplified)": "反作弊 (Fǎn zuòbì)"
+    },
+    "replied": {
+        "Hindi": "जवाब दिया",
+        "Chinese (Simplified)": "回复 (Huífù)"
+    },
+    "anonymous": {
+        "Hindi": "गुमनाम",
+        "Chinese (Simplified)": "匿名 (Nìmíng)"
+    },
+    "anonymously": {
+        "Hindi": "गुमनाम तरीके से",
+        "Chinese (Simplified)": "匿名地 (Nìmíng de)"
+    },
+    "anonymity": {
+        "Hindi": "गुमनामी",
+        "Chinese (Simplified)": "匿名性 (Nìmíngxìng)"
+    },
+    "bundle": {
+        "Hindi": "गट्ठर",
+        "Chinese (Simplified)": "捆绑 (Kǔnbǎng)"
+    },
+    "dumble": {
+        "Hindi": "पोटली",
+        "Chinese (Simplified)": "包裹 (Bāoguǒ)"
+    },
+    "extension": {
+        "Hindi": "विस्तार",
+        "Chinese (Simplified)": "扩展 (Kuòzhǎn)"
+    },
+    "dashboard": {
+        "Hindi": "डैशबोर्ड",
+        "Chinese (Simplified)": "仪表盘 (Yíbiǎo pán)"
+    },
+    "clit": {
+        "Hindi": "यौन अंग",
+        "Chinese (Simplified)": "阴蒂 (Yīndì)"
+    },
+    "blown": {
+        "Hindi": "उड़ा हुआ",
+        "Chinese (Simplified)": "吹走的 (Chuī zǒu de)"
+    },
+    "chamber": {
+        "Hindi": "कक्ष",
+        "Chinese (Simplified)": "房间 (Fángjiān)"
+    },
+    "hub": {
+        "Hindi": "केंद्र",
+        "Chinese (Simplified)": "中心 (Zhōngxīn)"
+    },
+    "assistant": {
+        "Hindi": "सहायक",
+        "Chinese (Simplified)": "助手 (Zhùshǒu)"
+    },
+    "assistance": {
+        "Hindi": "सहायता",
+        "Chinese (Simplified)": "帮助 (Bāngzhù)"
+    },
+    "more over": {
+        "Hindi": "इसके अलावा",
+        "Chinese (Simplified)": "而且 (Érqiě)"
+    },
+    "can you do this for me": {
+        "Hindi": "क्या आप यह मेरे लिए कर सकते हैं",
+        "Chinese (Simplified)": "你能为我做这个吗？ (Nǐ néng wèi wǒ zuò zhège ma?)"
+    },
+    "let's do this": {
+        "Hindi": "चलो यह करते हैं",
+        "Chinese (Simplified)": "我们来做这个吧 (Wǒmen lái zuò zhège ba)"
+    },
+    "can you help me": {
+        "Hindi": "क्या आप मेरी मदद कर सकते हैं",
+        "Chinese (Simplified)": "你能帮我吗？ (Nǐ néng bāng wǒ ma?)"
+    },
+    "can you keep it": {
+        "Hindi": "क्या आप इसे रख सकते हैं",
+        "Chinese (Simplified)": "你能保留它吗？ (Nǐ néng bǎoliú tā ma?)"
+    },
+    "catch it": {
+        "Hindi": "इसे पकड़ो",
+        "Chinese (Simplified)": "抓住它 (Zhuā zhù tā)"
+    },
+    "let's explore": {
+        "Hindi": "चलो अन्वेषण करें",
+        "Chinese (Simplified)": "让我们探索吧 (Ràng wǒmen tànsuǒ ba)"
+    },
+    "expense": {
+        "Hindi": "व्यय",
+        "Chinese (Simplified)": "费用 (Fèiyòng)"
+    },
+    "track": {
+        "Hindi": "पटरियाँ",
+        "Chinese (Simplified)": "轨道 (Guǐdào)"
+    },
+    "tracking": {
+        "Hindi": "ट्रैकिंग",
+        "Chinese (Simplified)": "跟踪 (Gēnzōng)"
+    },
+    "tracker": {
+        "Hindi": "ट्रैकर",
+        "Chinese (Simplified)": "追踪器 (Zhuīzōng qì)"
+    },
+    "bye": {
+        "Hindi": "अलविदा",
+        "Chinese (Simplified)": "再见 (Zàijiàn)"
+    },
+    "hi": {
+        "Hindi": "नमस्ते",
+        "Chinese (Simplified)": "你好 (Nǐ hǎo)"
+    },
+    "hey": {
+        "Hindi": "अरे",
+        "Chinese (Simplified)": "嘿 (Hēi)"
+    },
+    "babysitter": {
+        "Hindi": "बच्चों की देखभाल करने वाला",
+        "Chinese (Simplified)": "保姆 (Bǎomǔ)"
+    },
+    "janitor": {
+        "Hindi": "चपरासी",
+        "Chinese (Simplified)": "清洁工 (Qīngjié gōng)"
+    },
+    "good bye": {
+        "Hindi": "अलविदा",
+        "Chinese (Simplified)": "再见 (Zàijiàn)"
+    },
+    "hardcore": {
+        "Hindi": "कट्टर",
+        "Chinese (Simplified)": "硬核 (Yìng hé)"
+    },
+    "core": {
+        "Hindi": "मूल",
+        "Chinese (Simplified)": "核心 (Héxīn)"
+    },
+    "insult": {
+        "Hindi": "अपमान",
+        "Chinese (Simplified)": "侮辱 (Wǔrǔ)"
+    },
+    "chronic": {
+        "Hindi": "पुराना",
+        "Chinese (Simplified)": "慢性的 (Mànxìng de)"
+    },
+    "chronology": {
+        "Hindi": "कालक्रम",
+        "Chinese (Simplified)": "年代学 (Niándài xué)"
+    },
+    "falling": {
+        "Hindi": "गिरना",
+        "Chinese (Simplified)": "下落 (Xiàluò)"
+    },
+    "aware": {
+        "Hindi": "जागरूक",
+        "Chinese (Simplified)": "意识到的 (Yìshí dào de)"
+    },
+    "awareness": {
+        "Hindi": "जागरूकता",
+        "Chinese (Simplified)": "意识 (Yìshí)"
+    },
+    "self awareness": {
+        "Hindi": "आत्म-जागरूकता",
+        "Chinese (Simplified)": "自我意识 (Zìwǒ yìshí)"
+    },
+    "coach": {
+        "Hindi": "प्रशिक्षक",
+        "Chinese (Simplified)": "教练 (Jiàoliàn)"
+    },
+    "tuition": {
+        "Hindi": "शिक्षा शुल्क",
+        "Chinese (Simplified)": "学费 (Xuéfèi)"
+    },
+    "revealed": {
+        "Hindi": "प्रकट किया",
+        "Chinese (Simplified)": "揭示了 (Jiēshì le)"
+    },
+    "template": {
+        "Hindi": "खाका",
+        "Chinese (Simplified)": "模板 (Múbǎn)"
+    },
+    "presentation": {
+        "Hindi": "प्रस्तुति",
+        "Chinese (Simplified)": "演示 (Yǎnshì)"
+    },
+    "marketing": {
+        "Hindi": "विपणन",
+        "Chinese (Simplified)": "营销 (Yíngxiāo)"
+    },
+    "story telling": {
+        "Hindi": "कहानी सुनाना",
+        "Chinese (Simplified)": "讲故事 (Jiǎng gùshì)"
+    },
+    "board": {
+        "Hindi": "बोर्ड",
+        "Chinese (Simplified)": "板 (Bǎn)"
+    },
+    "empire": {
+        "Hindi": "साम्राज्य",
+        "Chinese (Simplified)": "帝国 (Dìguó)"
+    },
+    "mystic": {
+        "Hindi": "रहस्यमय",
+        "Chinese (Simplified)": "神秘的 (Shénmì de)"
+    },
+    "kept": {
+        "Hindi": "रखा गया",
+        "Chinese (Simplified)": "保留 (Bǎoliú)"
+    },
+    "accomplish": {
+        "Hindi": "पूरा करना",
+        "Chinese (Simplified)": "完成 (Wánchéng)"
+    },
+    "park": {
+        "Hindi": "उद्यान",
+        "Chinese (Simplified)": "公园 (Gōngyuán)"
+    },
+    "cinema": {
+        "Hindi": "सिनेमा",
+        "Chinese (Simplified)": "电影院 (Diànyǐngyuàn)"
+    },
+    "non religious": {
+        "Hindi": "गैर-धार्मिक",
+        "Chinese (Simplified)": "非宗教的 (Fēi zōngjiào de)"
+    },
+    "bleach": {
+        "Hindi": "सफ़ेद करना",
+        "Chinese (Simplified)": "漂白 (Piǎobái)"
+    },
+    "bleaching": {
+        "Hindi": "सफ़ेद करना",
+        "Chinese (Simplified)": "漂白过程 (Piǎobái guòchéng)"
+    },
+    "bleached": {
+        "Hindi": "सफ़ेद किया हुआ",
+        "Chinese (Simplified)": "漂白的 (Piǎobái de)"
+    },
+    "normalization": {
+        "Hindi": "सामान्यीकरण",
+        "Chinese (Simplified)": "规范化 (Guīfànhuà)"
+    },
+    "agitation": {
+        "Hindi": "उत्तेजना",
+        "Chinese (Simplified)": "骚动 (Sāodòng)"
+    },
+    "assist": {
+        "Hindi": "मदद करना",
+        "Chinese (Simplified)": "协助 (Xiézhù)"
+    },
+    "appreciate": {
+        "Hindi": "सराहना",
+        "Chinese (Simplified)": "欣赏 (Xīnshǎng)"
+    },
+    "assume": {
+        "Hindi": "मान लेना",
+        "Chinese (Simplified)": "假设 (Jiǎshè)"
+    },
+    "aching": {
+        "Hindi": "दर्द हो रहा है",
+        "Chinese (Simplified)": "疼痛的 (Téngtòng de)"
+    },
+    "ball": {
+        "Hindi": "गेंद",
+        "Chinese (Simplified)": "球 (Qiú)"
+    },
+    "alarm": {
+        "Hindi": "चेतावनी",
+        "Chinese (Simplified)": "警报 (Jǐngbào)"
+    },
+    "bat": {
+        "Hindi": "चमगादड़ / बल्ला",
+        "Chinese (Simplified)": "蝙蝠 (Biānfú) / 球棒 (Qiúbàng)"
+    },
+    "blend": {
+        "Hindi": "मिश्रण",
+        "Chinese (Simplified)": "混合 (Hùnhé)"
+    },
+    "bounce": {
+        "Hindi": "उछलना",
+        "Chinese (Simplified)": "弹跳 (Tántiào)"
+    },
+    "brag": {
+        "Hindi": "शेखी बघारना",
+        "Chinese (Simplified)": "吹嘘 (Chuīxū)"
+    },
+    "grab": {
+        "Hindi": "पकड़ना",
+        "Chinese (Simplified)": "抓住 (Zhuāzhù)"
+    },
+    "browse": {
+        "Hindi": "ब्राउज़ करना",
+        "Chinese (Simplified)": "浏览 (Liúlǎn)"
+    },
+    "bake": {
+        "Hindi": "सेंकना",
+        "Chinese (Simplified)": "烘焙 (Hōngbèi)"
+    },
+    "conclude": {
+        "Hindi": "निष्कर्ष निकालना",
+        "Chinese (Simplified)": "总结 (Zǒngjié)"
+    },
+    "consider": {
+        "Hindi": "विचार करना",
+        "Chinese (Simplified)": "考虑 (Kǎolǜ)"
+    },
+    "contain": {
+        "Hindi": "शामिल करना",
+        "Chinese (Simplified)": "包含 (Bāohán)"
+    },
+    "contribute": {
+        "Hindi": "योगदान देना",
+        "Chinese (Simplified)": "贡献 (Gòngxiàn)"
+    },
+    "contributing": {
+        "Hindi": "योगदान करते हुए",
+        "Chinese (Simplified)": "贡献中 (Gòngxiàn zhōng)"
+    },
+    "drive": {
+        "Hindi": "चलाना",
+        "Chinese (Simplified)": "驾驶 (Jiàshǐ)"
+    },
+    "deliver": {
+        "Hindi": "पहुंचाना",
+        "Chinese (Simplified)": "交付 (Jiāofù)"
+    },
+    "declare": {
+        "Hindi": "घोषणा करना",
+        "Chinese (Simplified)": "宣布 (Xuānbù)"
+    },
+    "dedicate": {
+        "Hindi": "समर्पित करना",
+        "Chinese (Simplified)": "奉献 (Fèngxiàn)"
+    },
+    "describe": {
+        "Hindi": "वर्णन करना",
+        "Chinese (Simplified)": "描述 (Miáoshù)"
+    },
+    "depend": {
+        "Hindi": "निर्भर करना",
+        "Chinese (Simplified)": "依靠 (Yīkào)"
+    },
+    "discuss": {
+        "Hindi": "चर्चा करना",
+        "Chinese (Simplified)": "讨论 (Tǎolùn)"
+    },
+    "evaluate": {
+        "Hindi": "मूल्यांकन करना",
+        "Chinese (Simplified)": "评估 (Pínggū)"
+    },
+    "examine": {
+        "Hindi": "जांचना",
+        "Chinese (Simplified)": "检查 (Jiǎnchá)"
+    },
+    "forget": {
+        "Hindi": "भूल जाना",
+        "Chinese (Simplified)": "忘记 (Wàngjì)"
+    },
+    "fold": {
+        "Hindi": "मोड़ना",
+        "Chinese (Simplified)": "折叠 (Zhédié)"
+    },
+    "flee": {
+        "Hindi": "भाग जाना",
+        "Chinese (Simplified)": "逃跑 (Táopǎo)"
+    },
+    "fuel": {
+        "Hindi": "ईंधन देना",
+        "Chinese (Simplified)": "加燃料 (Jiā ránliào)"
+    },
+    "gather": {
+        "Hindi": "इकट्ठा करना",
+        "Chinese (Simplified)": "收集 (Shōují)"
+    },
+    "tilt": {
+        "Hindi": "झुकाना",
+        "Chinese (Simplified)": "倾斜 (Qīngxié)"
+    },
+    "gain": {
+        "Hindi": "प्राप्त करना",
+        "Chinese (Simplified)": "获得 (Huòdé)"
+    },
+    "grasp": {
+        "Hindi": "पकड़",
+        "Chinese (Simplified)": "抓住 (Zhuāzhù)"
+    },
+    "greet": {
+        "Hindi": "अभिवादन करना",
+        "Chinese (Simplified)": "问候 (Wènhòu)"
+    },
+    "hunt": {
+        "Hindi": "शिकार करना",
+        "Chinese (Simplified)": "狩猎 (Shòuliè)"
+    },
+    "highlight": {
+        "Hindi": "मुख्य बिंदु दिखाना",
+        "Chinese (Simplified)": "突出显示 (Tūchū xiǎnshì)"
+    },
+    "hike": {
+        "Hindi": "चढ़ाई करना",
+        "Chinese (Simplified)": "徒步旅行 (Túbù lǚxíng)"
+    },
+    "illustrate": {
+        "Hindi": "व्याख्या करना",
+        "Chinese (Simplified)": "说明 (Shuōmíng)"
+    },
+    "insist": {
+        "Hindi": "ज़ोर देना",
+        "Chinese (Simplified)": "坚持 (Jiānchí)"
+    },
+    "involve": {
+        "Hindi": "शामिल करना",
+        "Chinese (Simplified)": "涉及 (Shèjí)"
+    },
+    "indicate": {
+        "Hindi": "संकेत करना",
+        "Chinese (Simplified)": "表明 (Biǎomíng)"
+    },
+    "interpret": {
+        "Hindi": "व्याख्या करना",
+        "Chinese (Simplified)": "解释 (Jiěshì)"
+    },
+    "jug": {
+        "Hindi": "जग",
+        "Chinese (Simplified)": "壶 (Hú)"
+    },
+    "fruits bowl": {
+        "Hindi": "फलों का कटोरा",
+        "Chinese (Simplified)": "水果碗 (Shuǐguǒ wǎn)"
+    },
+    "kilo": {
+        "Hindi": "किलो",
+        "Chinese (Simplified)": "千克 (Qiānkè)"
+    },
+    "meter": {
+        "Hindi": "मीटर",
+        "Chinese (Simplified)": "米 (Mǐ)"
+    },
+    "miles": {
+        "Hindi": "मील",
+        "Chinese (Simplified)": "英里 (Yīnglǐ)"
+    },
+    "centimeter": {
+        "Hindi": "सेंटीमीटर",
+        "Chinese (Simplified)": "厘米 (Límǐ)"
+    },
+    "millimeter": {
+        "Hindi": "मिलीमीटर",
+        "Chinese (Simplified)": "毫米 (Háomǐ)"
+    },
+    "justify": {
+        "Hindi": "न्यायोचित ठहराना",
+        "Chinese (Simplified)": "证明 (Zhèngmíng)"
+    },
+    "juggle": {
+        "Hindi": "जुगलिंग करना",
+        "Chinese (Simplified)": "耍杂技 (Shuǎ zájì)"
+    },
+    "jab": {
+        "Hindi": "चोट देना",
+        "Chinese (Simplified)": "戳 (Chuō)"
+    },
+    "jolt": {
+        "Hindi": "झटका",
+        "Chinese (Simplified)": "震动 (Zhèndòng)"
+    },
+    "jog": {
+        "Hindi": "धीमी दौड़",
+        "Chinese (Simplified)": "慢跑 (Mànpǎo)"
+    },
+    "jabber": {
+        "Hindi": "बड़बड़ाना",
+        "Chinese (Simplified)": "快言乱语 (Kuài yán luàn yǔ)"
+    },
+    "knead": {
+        "Hindi": "गूंधना",
+        "Chinese (Simplified)": "揉 (Róu)"
+    },
+    "knit": {
+        "Hindi": "बुनाई करना",
+        "Chinese (Simplified)": "编织 (Biānzhī)"
+    },
+    "kettle": {
+        "Hindi": "केतली",
+        "Chinese (Simplified)": "水壶 (Shuǐhú)"
+    },
+    "knockout": {
+        "Hindi": "नॉकआउट",
+        "Chinese (Simplified)": "击倒 (Jídǎo)"
+    },
+    "knowingly": {
+        "Hindi": "जानबूझकर",
+        "Chinese (Simplified)": "故意地 (Gùyì de)"
+    },
+    "crystal": {
+        "Hindi": "क्रिस्टल",
+        "Chinese (Simplified)": "水晶 (Shuǐjīng)"
+    },
+    "label": {
+        "Hindi": "लेबल",
+        "Chinese (Simplified)": "标签 (Biāoqiān)"
+    },
+    "stiff": {
+        "Hindi": "कठोर",
+        "Chinese (Simplified)": "僵硬 (Jiāngyìng)"
+    },
+    "sniff": {
+        "Hindi": "सूंघना",
+        "Chinese (Simplified)": "嗅 (Xiù)"
+    },
+    "locate": {
+        "Hindi": "खोजना",
+        "Chinese (Simplified)": "定位 (Dìngwèi)"
+    },
+    "leap": {
+        "Hindi": "छलांग लगाना",
+        "Chinese (Simplified)": "跳跃 (Tiàoyuè)"
+    },
+    "leaf": {
+        "Hindi": "पत्ता",
+        "Chinese (Simplified)": "叶子 (Yèzi)"
+    },
+    "summon": {
+        "Hindi": "बुलाना",
+        "Chinese (Simplified)": "召唤 (Zhàohuàn)"
+    },
+    "morph": {
+        "Hindi": "रूप बदलना",
+        "Chinese (Simplified)": "变形 (Biànxíng)"
+    },
+    "maintain": {
+        "Hindi": "बनाए रखना",
+        "Chinese (Simplified)": "维护 (Wéihù)"
+    },
+    "mention": {
+        "Hindi": "उल्लेख करना",
+        "Chinese (Simplified)": "提到 (Tídào)"
+    },
+    "mimic": {
+        "Hindi": "नकल करना",
+        "Chinese (Simplified)": "模仿 (Mófǎng)"
+    },
+    "notice": {
+        "Hindi": "ध्यान देना",
+        "Chinese (Simplified)": "注意 (Zhùyì)"
+    },
+    "nature": {
+        "Hindi": "प्रकृति",
+        "Chinese (Simplified)": "自然 (Zìrán)"
+    },
+    "narrow": {
+        "Hindi": "संकरी",
+        "Chinese (Simplified)": "狭窄 (Xiázhǎi)"
+    },
+    "compliment": {
+        "Chinese (Simplified)": "赞美 (zàn měi)",
+        "Hindi": "सम्मान (sammaan)"
+    },
+    "carta": {
+        "Chinese (Simplified)": "信 (xìn)",
+        "Hindi": "पत्र (patra)"
+    },
+    "afterlife": {
+        "Chinese (Simplified)": "来世 (lái shì)",
+        "Hindi": "परलोक (parlok)"
+    },
+    "would you rather": {
+        "Chinese (Simplified)": "你会选择 (nǐ huì xuǎn zé)",
+        "Hindi": "क्या आप पसंद करेंगे (kya aap pasand karenge)"
+    },
+    "blonde": {
+        "Chinese (Simplified)": "金发 (jīn fà)",
+        "Hindi": "ब्लॉन्ड (blonde)"
+    },
+    "dye": {
+        "Chinese (Simplified)": "染色 (rǎn sè)",
+        "Hindi": "रंगना (rangna)"
+    },
+    "haircut": {
+        "Chinese (Simplified)": "理发 (lǐ fà)",
+        "Hindi": "हेयरकट (haircut)"
+    },
+    "hairstyle": {
+        "Chinese (Simplified)": "发型 (fà xíng)",
+        "Hindi": "बालों की शैली (baalon ki shaili)"
+    },
+    "nostalgia": {
+        "Chinese (Simplified)": "怀旧 (huái jiù)",
+        "Hindi": "अतीत की यादें (ateet ki yaadein)"
+    },
+    "phobia": {
+        "Chinese (Simplified)": "恐惧症 (kǒng jù zhèng)",
+        "Hindi": "भय (bhay)"
+    },
+    "magma": {
+        "Chinese (Simplified)": "岩浆 (yán jiāng)",
+        "Hindi": "मग्मा (magma)"
+    },
+    "erupt": {
+        "Chinese (Simplified)": "爆发 (bào fā)",
+        "Hindi": "विस्फोट (visfot)"
+    },
+    "eruption": {
+        "Chinese (Simplified)": "爆发 (bào fā)",
+        "Hindi": "विस्फोट (visfot)"
+    },
+    "well": {
+        "Chinese (Simplified)": "井 (jǐng)",
+        "Hindi": "कुंआ (kunwa)"
+    },
+    "booking": {
+        "Chinese (Simplified)": "预定 (yù dìng)",
+        "Hindi": "बुकिंग (booking)"
+    },
+    "worst year": {
+        "Chinese (Simplified)": "最糟糕的年份 (zuì zāo gāo de nián fèn)",
+        "Hindi": "सर्वश्रेष्ठ वर्ष (sarvashreshth varsh)"
+    },
+    "best year": {
+        "Chinese (Simplified)": "最好的一年 (zuì hǎo de yī nián)",
+        "Hindi": "सर्वश्रेष्ठ वर्ष (sarvashreshth varsh)"
+    },
+    "glimpses": {
+        "Chinese (Simplified)": "一瞥 (yī piē)",
+        "Hindi": "झलक (jhalak)"
+    },
+    "arithmetic": {
+        "Chinese (Simplified)": "算术 (suàn shù)",
+        "Hindi": "गणित (ganit)"
+    },
+    "time table": {
+        "Chinese (Simplified)": "时间表 (shí jiān biǎo)",
+        "Hindi": "समय सारणी (samay sarani)"
+    },
+    "theater": {
+        "Chinese (Simplified)": "剧院 (jù yuàn)",
+        "Hindi": "थियेटर (theater)"
+    },
+    "arrogant": {
+        "Chinese (Simplified)": "傲慢 (ào màn)",
+        "Hindi": "अहंकारी (ahankari)"
+    },
+    "transit": {
+        "Chinese (Simplified)": "运输 (yùn shū)",
+        "Hindi": "परिवहन (parivahan)"
+    },
+    "stroke": {
+        "Chinese (Simplified)": "中风 (zhòng fēng)",
+        "Hindi": "स्ट्रोक (stroke)"
+    },
+    "notify": {
+        "Hindi": "सूचित करना",
+        "Chinese (Simplified)": "通知 (Tōngzhī)"
+    },
+    "only": {
+        "Hindi": "केवल",
+        "Chinese (Simplified)": "仅 (Jǐn)"
+    },
+    "own": {
+        "Hindi": "अपना",
+        "Chinese (Simplified)": "自己的 (Zìjǐ de)"
+    },
+    "observe": {
+        "Hindi": "देखना",
+        "Chinese (Simplified)": "观察 (Guānchá)"
+    },
+    "overcome": {
+        "Hindi": "जीतना",
+        "Chinese (Simplified)": "克服 (Kèfú)"
+    },
+    "offer": {
+        "Hindi": "प्रस्ताव देना",
+        "Chinese (Simplified)": "提供 (Tígōng)"
+    },
+    "operate": {
+        "Hindi": "संचालित करना",
+        "Chinese (Simplified)": "操作 (Cāozuò)"
+    },
+    "oversea": {
+        "Hindi": "विदेशी",
+        "Chinese (Simplified)": "海外 (Hǎiwài)"
+    },
+    "postpone": {
+        "Hindi": "टालना",
+        "Chinese (Simplified)": "推迟 (Tuīchí)"
+    },
+    "participate": {
+        "Hindi": "भाग लेना",
+        "Chinese (Simplified)": "参与 (Cānyù)"
+    },
+    "persist": {
+        "Hindi": "डटे रहना",
+        "Chinese (Simplified)": "坚持 (Jiānchí)"
+    },
+    "prevent": {
+        "Hindi": "रोकना",
+        "Chinese (Simplified)": "防止 (Fángzhǐ)"
+    },
+    "pursue": {
+        "Hindi": "पीछा करना",
+        "Chinese (Simplified)": "追求 (Zhuīqiú)"
+    },
+    "perse": {
+        "Hindi": "स्वयं में",
+        "Chinese (Simplified)": "本身 (Běnshēn)"
+    },
+    "quite": {
+        "Hindi": "काफी",
+        "Chinese (Simplified)": "相当 (Xiāngdāng)"
+    },
+    "queue": {
+        "Hindi": "पंक्ति",
+        "Chinese (Simplified)": "队列 (Duìliè)"
+    },
+    "quack": {
+        "Hindi": "बत्तख की आवाज़",
+        "Chinese (Simplified)": "嘎嘎 (Gāgā)"
+    },
+    "quotation": {
+        "Hindi": "उद्धरण",
+        "Chinese (Simplified)": "引语 (Yǐnyǔ)"
+    },
+    "quarrel": {
+        "Hindi": "झगड़ा",
+        "Chinese (Simplified)": "争吵 (Zhēngchǎo)"
+    },
+    "quote": {
+        "Hindi": "उद्धृत करना",
+        "Chinese (Simplified)": "引用 (Yǐnyòng)"
+    },
+    "remember": {
+        "Hindi": "याद रखना",
+        "Chinese (Simplified)": "记得 (Jìdé)"
+    },
+    "recognize": {
+        "Hindi": "पहचानना",
+        "Chinese (Simplified)": "认出 (Rènchū)"
+    },
+    "rehearse": {
+        "Hindi": "अभ्यास करना",
+        "Chinese (Simplified)": "排练 (Páiliàn)"
+    },
+    "rely": {
+        "Hindi": "भरोसा करना",
+        "Chinese (Simplified)": "依赖 (Yīlài)"
+    },
+    "swim": {
+        "Hindi": "तैरना",
+        "Chinese (Simplified)": "游泳 (Yóuyǒng)"
+    },
+    "swimmer": {
+        "Hindi": "तैराक",
+        "Chinese (Simplified)": "游泳者 (Yóuyǒng zhě)"
+    },
+    "swimming": {
+        "Hindi": "तैराकी",
+        "Chinese (Simplified)": "游泳 (Yóuyǒng)"
+    },
+    "succeed": {
+        "Hindi": "सफल होना",
+        "Chinese (Simplified)": "成功 (Chénggōng)"
+    },
+    "supply": {
+        "Hindi": "आपूर्ति",
+        "Chinese (Simplified)": "供应 (Gōngyìng)"
+    },
+    "transform": {
+        "Hindi": "परिवर्तित करना",
+        "Chinese (Simplified)": "转变 (Zhuǎnbiàn)"
+    },
+    "testify": {
+        "Hindi": "गवाही देना",
+        "Chinese (Simplified)": "作证 (Zuòzhèng)"
+    },
+    "tryout": {
+        "Hindi": "परीक्षण",
+        "Chinese (Simplified)": "试用 (Shìyòng)"
+    },
+    "thrive": {
+        "Hindi": "फलना-फूलना",
+        "Chinese (Simplified)": "茁壮成长 (Zhuózhuàng chéngzhǎng)"
+    },
+    "umbrella": {
+        "Hindi": "छतरी",
+        "Chinese (Simplified)": "雨伞 (Yǔsǎn)"
+    },
+    "till": {
+        "Hindi": "तक",
+        "Chinese (Simplified)": "直到 (Zhídào)"
+    },
+    "until": {
+        "Hindi": "जब तक",
+        "Chinese (Simplified)": "直到 (Zhídào)"
+    },
+    "utilize": {
+        "Hindi": "उपयोग करना",
+        "Chinese (Simplified)": "利用 (Lìyòng)"
+    },
+    "unite": {
+        "Hindi": "एकजुट होना",
+        "Chinese (Simplified)": "团结 (Tuánjié)"
+    },
+    "united": {
+        "Hindi": "एकजुट",
+        "Chinese (Simplified)": "联合 (Liánhé)"
+    },
+    "critical": {
+        "Hindi": "महत्वपूर्ण",
+        "Chinese (Simplified)": "关键的 (Guānjiàn de)"
+    },
+    "unveil": {
+        "Hindi": "प्रकाश में लाना",
+        "Chinese (Simplified)": "揭幕 (Jiēmù)"
+    },
+    "wrap": {
+        "Hindi": "लपेटना",
+        "Chinese (Simplified)": "包裹 (Bāoguǒ)"
+    },
+    "wrapped": {
+        "Hindi": "लिपटा हुआ",
+        "Chinese (Simplified)": "包裹的 (Bāoguǒ de)"
+    },
+    "wrapping": {
+        "Hindi": "लपेटने का कार्य",
+        "Chinese (Simplified)": "包装 (Bāozhuāng)"
+    },
+    "uphold": {
+        "Hindi": "समर्थन करना",
+        "Chinese (Simplified)": "支持 (Zhīchí)"
+    },
+    "van": {
+        "Hindi": "गाड़ी",
+        "Chinese (Simplified)": "货车 (Huòchē)"
+    },
+    "vase": {
+        "Hindi": "फूलदान",
+        "Chinese (Simplified)": "花瓶 (Huāpíng)"
+    },
+    "flower pot": {
+        "Hindi": "गमला",
+        "Chinese (Simplified)": "花盆 (Huāpén)"
+    },
+    "validate": {
+        "Hindi": "सत्यापित करना",
+        "Chinese (Simplified)": "验证 (Yànzhèng)"
+    },
+    "visualize": {
+        "Hindi": "कल्पना करना",
+        "Chinese (Simplified)": "可视化 (Kěshìhuà)"
+    },
+    "viewpoint": {
+        "Hindi": "दृष्टिकोण",
+        "Chinese (Simplified)": "观点 (Guāndiǎn)"
+    },
+    "vary": {
+        "Hindi": "भिन्न होना",
+        "Chinese (Simplified)": "变化 (Biànhuà)"
+    },
+    "venture": {
+        "Hindi": "साहसिक कार्य",
+        "Chinese (Simplified)": "冒险 (Màoxiǎn)"
+    },
+    "victory": {
+        "Hindi": "विजय",
+        "Chinese (Simplified)": "胜利 (Shènglì)"
+    },
+    "defeated": {
+        "Hindi": "पराजित",
+        "Chinese (Simplified)": "被打败的 (Bèi dǎbài de)"
+    },
+    "wind": {
+        "Hindi": "हवा",
+        "Chinese (Simplified)": "风 (Fēng)"
+    },
+    "determine": {
+        "Hindi": "निर्धारित करना",
+        "Chinese (Simplified)": "确定 (Quèdìng)"
+    },
+    "drill": {
+        "Hindi": "ड्रिल करना",
+        "Chinese (Simplified)": "钻孔 (Zuānkǒng)"
+    },
+    "weigh": {
+        "Hindi": "तौलना",
+        "Chinese (Simplified)": "称重 (Chēngzhòng)"
+    },
+    "whirl": {
+        "Hindi": "घूमना",
+        "Chinese (Simplified)": "旋转 (Xuánzhuǎn)"
+    },
+    "witness": {
+        "Hindi": "गवाह",
+        "Chinese (Simplified)": "见证 (Jiànzhèng)"
+    },
+    "xenon": {
+        "Hindi": "जेनन",
+        "Chinese (Simplified)": "氙 (Xiān)"
+    },
+    "xmas": {
+        "Hindi": "क्रिसमस",
+        "Chinese (Simplified)": "圣诞节 (Shèngdànjié)"
+    },
+    "xenial": {
+        "Hindi": "मित्रतापूर्ण",
+        "Chinese (Simplified)": "友好的 (Yǒuhǎo de)"
+    },
+    "xerophyte": {
+        "Hindi": "शुष्क स्थान का पौधा",
+        "Chinese (Simplified)": "旱生植物 (Hànshēng zhíwù)"
+    },
+    "denial": {
+        "Hindi": "इनकार",
+        "Chinese (Simplified)": "否认 (Fǒurèn)"
+    },
+    "xyst": {
+        "Hindi": "क्रीड़ा स्थल",
+        "Chinese (Simplified)": "走廊 (Zǒuláng)"
+    },
+    "yawn": {
+        "Hindi": "जंभाई लेना",
+        "Chinese (Simplified)": "打哈欠 (Dǎ hāqiàn)"
+    },
+    "yield": {
+        "Hindi": "उत्पादन करना",
+        "Chinese (Simplified)": "产量 (Chǎnliàng)"
+    },
+    "yolk": {
+        "Hindi": "अंडे की जर्दी",
+        "Chinese (Simplified)": "蛋黄 (Dànhuáng)"
+    },
+    "yank": {
+        "Hindi": "खींचना",
+        "Chinese (Simplified)": "猛拉 (Měnglā)"
+    },
+    "yodel": {
+        "Hindi": "योडल गाना",
+        "Chinese (Simplified)": "约德尔唱法 (Yuē dé ěr chàngfǎ)"
+    },
+    "yearn": {
+        "Hindi": "तरसना",
+        "Chinese (Simplified)": "渴望 (Kěwàng)"
+    },
+    "yelp": {
+        "Hindi": "चीख",
+        "Chinese (Simplified)": "尖叫 (Jiānjiào)"
+    },
+    "yonder": {
+        "Hindi": "उधर",
+        "Chinese (Simplified)": "那边 (Nàbiān)"
+    },
+    "yielding": {
+        "Hindi": "नरम",
+        "Chinese (Simplified)": "柔顺的 (Róushùn de)"
+    },
+    "zigzag": {
+        "Hindi": "जिगजैग",
+        "Chinese (Simplified)": "曲折 (Qūzhé)"
+    },
+    "zip": {
+        "Hindi": "ज़िप",
+        "Chinese (Simplified)": "拉链 (Lāliàn)"
+    },
+    "zeal": {
+        "Hindi": "उत्साह",
+        "Chinese (Simplified)": "热情 (Rèqíng)"
+    },
+    "zest": {
+        "Hindi": "जोश",
+        "Chinese (Simplified)": "热情 (Rèqíng)"
+    },
+    "zapped": {
+        "Hindi": "चौंका हुआ",
+        "Chinese (Simplified)": "震惊的 (Zhènjīng de)"
+    },
+    "zephyr": {
+        "Hindi": "मंद हवा",
+        "Chinese (Simplified)": "微风 (Wēifēng)"
+    },
+    "breeze": {
+        "Hindi": "समीर",
+        "Chinese (Simplified)": "微风 (Wēifēng)"
+    },
+    "characterized": {
+        "Hindi": "विशेषता होना",
+        "Chinese (Simplified)": "表现为 (Biǎoxiàn wéi)"
+    },
+    "pursuit": {
+        "Hindi": "अनुसरण",
+        "Chinese (Simplified)": "追求 (Zhuīqiú)"
+    },
+    "cultivation": {
+        "Hindi": "खेती",
+        "Chinese (Simplified)": "栽培 (Zāipéi)"
+    },
+    "existence": {
+        "Hindi": "अस्तित्व",
+        "Chinese (Simplified)": "存在 (Cúnzài)"
+    },
+    "exhibition": {
+        "Hindi": "प्रदर्शनी",
+        "Chinese (Simplified)": "展览 (Zhǎnlǎn)"
+    },
+    "pitched": {
+        "Hindi": "डाला गया",
+        "Chinese (Simplified)": "投掷 (Tóuzhì)"
+    },
+    "fluctuate": {
+        "Hindi": "हिलना-डुलना",
+        "Chinese (Simplified)": "波动 (Bōdòng)"
+    },
+    "fluctuating": {
+        "Hindi": "बदलते हुए",
+        "Chinese (Simplified)": "波动的 (Bōdòng de)"
+    },
+    "forcefully": {
+        "Hindi": "जोर से",
+        "Chinese (Simplified)": "强有力地 (Qiángyǒulì dì)"
+    },
+    "affirmation": {
+        "Hindi": "पुष्टि",
+        "Chinese (Simplified)": "肯定 (Kěndìng)"
+    },
+    "spectrum": {
+        "Hindi": "स्पेक्ट्रम",
+        "Chinese (Simplified)": "光谱 (Guāngpǔ)"
+    },
+    "engrave": {
+        "Hindi": "उकेरना",
+        "Chinese (Simplified)": "雕刻 (Diāokè)"
+    },
+    "engraving": {
+        "Hindi": "उकेरने का कार्य",
+        "Chinese (Simplified)": "雕刻 (Diāokè)"
+    },
+    "offspring": {
+        "Hindi": "संतान",
+        "Chinese (Simplified)": "后代 (Hòudài)"
+    },
+    "xenophobe": {
+        "Hindi": "विदेशी डरने वाला",
+        "Chinese (Simplified)": "仇外者 (Chóu wài zhě)"
+    },
+    "phobia": {
+        "Hindi": "डर",
+        "Chinese (Simplified)": "恐惧症 (Kǒngjù zhèng)"
+    },
+    "colorless": {
+        "Hindi": "बेरंग",
+        "Chinese (Simplified)": "无色的 (Wú sè de)"
+    },
+    "journal": {
+        "Hindi": "पत्रिका",
+        "Chinese (Simplified)": "日志 (Rìzhì)"
+    },
+    "attentivity": {
+        "Hindi": "ध्यान देने की क्षमता",
+        "Chinese (Simplified)": "专注力 (Zhuānzhù lì)"
+    },
+    "initiate": {
+        "Hindi": "आरंभ करना",
+        "Chinese (Simplified)": "开始 (Kāishǐ)"
+    },
+    "sentiments": {
+        "Hindi": "भावनाएँ",
+        "Chinese (Simplified)": "情感 (Qínggǎn)"
+    },
+    "sentimental": {
+        "Hindi": "भावुक",
+        "Chinese (Simplified)": "感伤的 (Gǎnshāng de)"
+    },
+    "rapid": {
+        "Hindi": "तेज़",
+        "Chinese (Simplified)": "快速的 (Kuàisù de)"
+    },
+    "ground reality": {
+        "Hindi": "जमीनी हकीकत",
+        "Chinese (Simplified)": "实际情况 (Shíjì qíngkuàng)"
+    },
+    "down to earth": {
+        "Hindi": "व्यवहारिक",
+        "Chinese (Simplified)": "脚踏实地的 (Jiǎo tà shídì de)"
+    },
+    "referring": {
+        "Hindi": "संदर्भ देना",
+        "Chinese (Simplified)": "指代 (Zhǐdài)"
+    },
+    "refer": {
+        "Hindi": "संदर्भित करना",
+        "Chinese (Simplified)": "参考 (Cānkǎo)"
+    },
+    "towards": {
+        "Hindi": "की ओर",
+        "Chinese (Simplified)": "朝向 (Cháoxiàng)"
+    },
+    "significant": {
+        "Hindi": "महत्वपूर्ण",
+        "Chinese (Simplified)": "显著的 (Xiǎnzhù de)"
+    },
+    "renovate": {
+        "Hindi": "पुनर्निर्माण करना",
+        "Chinese (Simplified)": "翻新 (Fānxīn)"
+    },
+    "renovating": {
+        "Hindi": "पुनर्निर्माण कर रहा है",
+        "Chinese (Simplified)": "正在翻新 (Zhèngzài fānxīn)"
+    },
+    "significantly": {
+        "Hindi": "महत्वपूर्ण रूप से",
+        "Chinese (Simplified)": "显著地 (Xiǎnzhù de)"
+    },
+    "indefinite": {
+        "Hindi": "अनिश्चित",
+        "Chinese (Simplified)": "不确定的 (Bù quèdìng de)"
+    },
+    "enclose": {
+        "Hindi": "सन्निहित करना",
+        "Chinese (Simplified)": "包围 (Bāowéi)"
+    },
+    "furnish": {
+        "Hindi": "सुसज्जित करना",
+        "Chinese (Simplified)": "提供家具 (Tígōng jiājù)"
+    },
+    "fungus": {
+        "Hindi": "फफूंद",
+        "Chinese (Simplified)": "真菌 (Zhēnjūn)"
+    },
+    "encourage": {
+        "Hindi": "प्रोत्साहित करना",
+        "Chinese (Simplified)": "鼓励 (Gǔlì)"
+    },
+    "remain still": {
+        "Hindi": "स्थिर रहना",
+        "Chinese (Simplified)": "保持静止 (Bǎochí jìngzhǐ)"
+    },
+    "cease": {
+        "Hindi": "रुकना",
+        "Chinese (Simplified)": "停止 (Tíngzhǐ)"
+    },
+    "vacation": {
+        "Hindi": "अवकाश",
+        "Chinese (Simplified)": "假期 (Jiàqī)"
+    },
+    "philosopher": {
+        "Hindi": "दार्शनिक",
+        "Chinese (Simplified)": "哲学家 (Zhéxué jiā)"
+    },
+    "quarreled": {
+        "Hindi": "झगड़ा किया",
+        "Chinese (Simplified)": "争吵了 (Zhēngchǎo le)"
+    },
+    "qualified": {
+        "Hindi": "योग्य",
+        "Chinese (Simplified)": "合格的 (Hégé de)"
+    },
+    "inquire": {
+        "Hindi": "पूछताछ करना",
+        "Chinese (Simplified)": "询问 (Xúnwèn)"
+    },
+    "assignment": {
+        "Hindi": "कार्य",
+        "Chinese (Simplified)": "任务 (Rènwù)"
+    },
+    "fraudulent": {
+        "Hindi": "धोखाधड़ी",
+        "Chinese (Simplified)": "欺诈的 (Qīzhà de)"
+    },
+    "practitioners": {
+        "Hindi": "प्रयोगकर्ता",
+        "Chinese (Simplified)": "从业者 (Cóngyè zhě)"
+    },
+    "regular": {
+        "Hindi": "नियमित",
+        "Chinese (Simplified)": "定期的 (Dìngqī de)"
+    },
+    "protection": {
+        "Hindi": "सुरक्षा",
+        "Chinese (Simplified)": "保护 (Bǎohù)"
+    },
+    "protecting": {
+        "Hindi": "सुरक्षित कर रहा है",
+        "Chinese (Simplified)": "保护中 (Bǎohù zhōng)"
+    },
+    "insurance": {
+        "Hindi": "बीमा",
+        "Chinese (Simplified)": "保险 (Bǎoxiǎn)"
+    },
+    "domesticated": {
+        "Hindi": "पालतू",
+        "Chinese (Simplified)": "驯养的 (Xùnyǎng de)"
+    },
+    "supervise": {
+        "Hindi": "निगरानी करना",
+        "Chinese (Simplified)": "监督 (Jiāndū)"
+    },
+    "downtown": {
+        "Hindi": "शहर का केंद्र",
+        "Chinese (Simplified)": "市中心 (Shì zhōngxīn)"
+    },
+    "disapproval": {
+        "Hindi": "अस्वीकृति",
+        "Chinese (Simplified)": "不赞成 (Bù zànchéng)"
+    },
+    "acceptance": {
+        "Hindi": "स्वीकृति",
+        "Chinese (Simplified)": "接受 (Jiēshòu)"
+    },
+    "unacceptance": {
+        "Hindi": "अस्वीकृति",
+        "Chinese (Simplified)": "不接受 (Bù jiēshòu)"
+    },
+    "negotiated": {
+        "Hindi": "सौदा किया",
+        "Chinese (Simplified)": "谈判 (Tánpàn)"
+    },
+    "negotiate": {
+        "Hindi": "सौदा करना",
+        "Chinese (Simplified)": "谈判 (Tánpàn)"
+    },
+    "satisfactory": {
+        "Hindi": "संतोषजनक",
+        "Chinese (Simplified)": "令人满意的 (Lìng rén mǎnyì de)"
+    },
+    "imitate": {
+        "Hindi": "नकल करना",
+        "Chinese (Simplified)": "模仿 (Mófǎng)"
+    },
+    "quality": {
+        "Hindi": "गुणवत्ता",
+        "Chinese (Simplified)": "质量 (Zhìliàng)"
+    },
+    "quantity": {
+        "Hindi": "मात्रा",
+        "Chinese (Simplified)": "数量 (Shùliàng)"
+    },
+    "ingredients": {
+        "Hindi": "सामग्री",
+        "Chinese (Simplified)": "成分 (Chéngfèn)"
+    },
+    "sleight": {
+        "Hindi": "चतुराई",
+        "Chinese (Simplified)": "巧妙 (Qiǎomiào)"
+    },
+    "bacteria": {
+        "Hindi": "बैक्टीरिया",
+        "Chinese (Simplified)": "细菌 (Xìjūn)"
+    },
+    "goon": {
+        "Hindi": "गुंडा",
+        "Chinese (Simplified)": "暴徒 (Bàotú)"
+    },
+    "goons": {
+        "Hindi": "गुंडे",
+        "Chinese (Simplified)": "暴徒们 (Bàotúmen)"
+    },
+    "nearest": {
+        "Hindi": "सबसे नजदीक",
+        "Chinese (Simplified)": "最近的 (Zuìjìn de)"
+    },
+    "restriction": {
+        "Hindi": "प्रतिबंध",
+        "Chinese (Simplified)": "限制 (Xiànzhì)"
+    },
+    "amusement": {
+        "Hindi": "मनोरंजन",
+        "Chinese (Simplified)": "娱乐 (Yúlè)"
+    },
+    "stimulates": {
+        "Hindi": "उत्तेजित करता है",
+        "Chinese (Simplified)": "刺激 (Cìjī)"
+    },
+    "internship": {
+        "Hindi": "इंटर्नशिप",
+        "Chinese (Simplified)": "实习 (Shíxí)"
+    },
+    "inquiry": {
+        "Hindi": "पूछताछ",
+        "Chinese (Simplified)": "询问 (Xúnwèn)"
+    },
+    "inaction": {
+        "Hindi": "निष्क्रियता",
+        "Chinese (Simplified)": "无为 (Wú wéi)"
+    },
+    "neglect": {
+        "Hindi": "लापरवाही",
+        "Chinese (Simplified)": "忽视 (Hūshì)"
+    },
+    "possession": {
+        "Hindi": "स्वामित्व",
+        "Chinese (Simplified)": "拥有 (Yōngyǒu)"
+    },
+    "possessed": {
+        "Hindi": "धारित",
+        "Chinese (Simplified)": "拥有的 (Yōngyǒu de)"
+    },
+    "possessing": {
+        "Hindi": "धारण करना",
+        "Chinese (Simplified)": "持有 (Chíyǒu)"
+    },
+    "laughter": {
+        "Hindi": "हंसी",
+        "Chinese (Simplified)": "笑声 (Xiàoshēng)"
+    },
+    "humorous": {
+        "Hindi": "हास्यपूर्ण",
+        "Chinese (Simplified)": "幽默的 (Yōumò de)"
+    },
+    "deliberately": {
+        "Hindi": "जानबूझकर",
+        "Chinese (Simplified)": "故意地 (Gùyì de)"
+    },
+    "hung": {
+        "Hindi": "लटका हुआ",
+        "Chinese (Simplified)": "悬挂的 (Xuánguà de)"
+    },
+    "healthcare": {
+        "Hindi": "स्वास्थ्य देखभाल",
+        "Chinese (Simplified)": "医疗保健 (Yīliáo bǎojiàn)"
+    },
+    "hurried": {
+        "Hindi": "जल्दी में",
+        "Chinese (Simplified)": "匆忙的 (Cōngmáng de)"
+    },
+    "intently": {
+        "Hindi": "ध्यान से",
+        "Chinese (Simplified)": "专心地 (Zhuānxīn de)"
+    },
+    "instructions": {
+        "Hindi": "निर्देश",
+        "Chinese (Simplified)": "指示 (Zhǐshì)"
+    },
+    "unpleasant": {
+        "Hindi": "अप्रिय",
+        "Chinese (Simplified)": "不愉快的 (Bù yúkuài de)"
+    },
+    "confinement": {
+        "Hindi": "बंदीगिरी",
+        "Chinese (Simplified)": "监禁 (Jiānjìn)"
+    },
+    "confine": {
+        "Hindi": "सीमित करना",
+        "Chinese (Simplified)": "限制 (Xiànzhì)"
+    },
+    "achievable": {
+        "Hindi": "प्राप्त किया जा सकने योग्य",
+        "Chinese (Simplified)": "可实现的 (Kě shíxiàn de)"
+    },
+    "conclusion": {
+        "Hindi": "निष्कर्ष",
+        "Chinese (Simplified)": "结论 (Jiélùn)"
+    },
+    "candidacy": {
+        "Hindi": "उम्मीदवारी",
+        "Chinese (Simplified)": "候选资格 (Hòuxuǎn zīgé)"
+    },
+    "dissatisfaction": {
+        "Hindi": "असंतोष",
+        "Chinese (Simplified)": "不满 (Bùmǎn)"
+    },
+    "establish": {
+        "Hindi": "स्थापित करना",
+        "Chinese (Simplified)": "建立 (Jiànlì)"
+    },
+    "established": {
+        "Hindi": "स्थापित",
+        "Chinese (Simplified)": "已建立的 (Yǐ jiànlì de)"
+    },
+    "domesticated": {
+        "Hindi": "पालतू",
+        "Chinese (Simplified)": "驯养的 (Xùnyǎng de)"
+    },
+    "interwoven": {
+        "Hindi": "आपस में जुड़ा हुआ",
+        "Chinese (Simplified)": "交织的 (Jiāozhī de)"
+    },
+    "pet": {
+        "Hindi": "पालतू जानवर",
+        "Chinese (Simplified)": "宠物 (Chǒngwù)"
+    },
+    "kitty": {
+        "Hindi": "बिल्ली का बच्चा",
+        "Chinese (Simplified)": "小猫 (Xiǎo māo)"
+    },
+    "hamster": {
+        "Hindi": "हैम्स्टर",
+        "Chinese (Simplified)": "仓鼠 (Cāngshǔ)"
+    },
+    "squirrel": {
+        "Hindi": "गिलहरी",
+        "Chinese (Simplified)": "松鼠 (Sōngshǔ)"
+    },
+    "consult": {
+        "Hindi": "परामर्श करना",
+        "Chinese (Simplified)": "咨询 (Zīxún)"
+    },
+    "counselor": {
+        "Hindi": "सलाहकार",
+        "Chinese (Simplified)": "顾问 (Gùwèn)"
+    },
+    "i am a student": {
+        "Chinese (Simplified)": "我是一名学生 (wǒ shì yī míng xué shēng)",
+        "Hindi": "मैं एक छात्र हूँ (main ek chhatr hoon)"
+    },
+    "she drinks water": {
+        "Chinese (Simplified)": "她喝水 (tā hē shuǐ)",
+        "Hindi": "वह पानी पीती है (vah pānī pītī hai)"
+    },
+    "we eat rice": {
+        "Chinese (Simplified)": "我们吃米饭 (wǒ men chī mǐ fàn)",
+        "Hindi": "हम चावल खाते हैं (ham chāval khāte hain)"
+    },
+    "they are teachers": {
+        "Chinese (Simplified)": "他们是老师 (tā men shì lǎo shī)",
+        "Hindi": "वे शिक्षक हैं (ve shikshak hain)"
+    },
+    "i have a book": {
+        "Chinese (Simplified)": "我有一本书 (wǒ yǒu yī běn shū)",
+        "Hindi": "मेरे पास एक किताब है (mere paas ek kitāb hai)"
+    },
+    "the cat is on the table": {
+        "Chinese (Simplified)": "猫在桌子上 (māo zài zhuō zi shàng)",
+        "Hindi": "बिल्ली मेज़ पर है (billi mez par hai)"
+    },
+    "where is the restaurant?": {
+        "Chinese (Simplified)": "餐厅在哪里? (cān tīng zài nǎ lǐ?)",
+        "Hindi": "रेस्टोरेंट कहाँ है? (restaurant kahān hai?)"
+    },
+    "i like chocolate": {
+        "Chinese (Simplified)": "我喜欢巧克力 (wǒ xǐ huān qiǎo kè lì)",
+        "Hindi": "मुझे चॉकलेट पसंद है (mujhe chākleṭ pasand hai)"
+    },
+    "how are you?": {
+        "Chinese (Simplified)": "你好吗? (nǐ hǎo ma?)",
+        "Hindi": "आप कैसे हैं? (āp kaise hain?)"
+    },
+    "my name is John": {
+        "Chinese (Simplified)": "我的名字是约翰 (wǒ de míng zì shì yuē hàn)",
+        "Hindi": "मेरा नाम जॉन है (merā nām Jhon hai)"
+    },
+    "i am from india": {
+        "Chinese (Simplified)": "我来自印度 (wǒ lái zì yìn du)",
+        "Hindi": "मैं भारत से हूँ (main Bhārat se hoon)"
+    },
+    "do you speak english?": {
+        "Chinese (Simplified)": "你会说英语吗? (nǐ huì shuō yīng yǔ ma?)",
+        "Hindi": "क्या आप अंग्रेजी बोलते हैं? (kyā āp angrezī bolte hain?)"
+    },
+    "this is a book": {
+        "Chinese (Simplified)": "这是一本书 (zhè shì yī běn shū)",
+        "Hindi": "यह एक किताब है (yah ek kitāb hai)"
+    },
+    "i am 17 years old": {
+        "Chinese (Simplified)": "我17岁 (wǒ 17 suì)",
+        "Hindi": "मैं 17 साल का हूँ (main 17 sāl kā hoon)"
+    },
+    "the movie was good": {
+        "Chinese (Simplified)": "电影很好 (diàn yǐng hěn hǎo)",
+        "Hindi": "फिल्म अच्छी थी (film acchī thī)"
+    },
+    "we are happy": {
+        "Chinese (Simplified)": "我们很高兴 (wǒ men hěn gāo xìng)",
+        "Hindi": "हम खुश हैं (ham khush hain)"
+    },
+    "can you help me?": {
+        "Chinese (Simplified)": "你能帮我吗? (nǐ néng bāng wǒ ma?)",
+        "Hindi": "क्या आप मेरी मदद कर सकते हैं? (kyā āp merī madad kar sakte hain?)"
+    },
+    "i am tired": {
+        "Chinese (Simplified)": "我累了 (wǒ lèi le)",
+        "Hindi": "मैं थका हुआ हूँ (main thakā huā hoon)"
+    },
+    "let's go to the park": {
+        "Chinese (Simplified)": "我们去公园吧 (wǒ men qù gōng yuán ba)",
+        "Hindi": "चलो पार्क चलते हैं (chalo park chalte hain)"
+    },
+    "i am learning mandarin": {
+        "Chinese (Simplified)": "我在学习中文 (wǒ zài xué xí zhōng wén)",
+        "Hindi": "मैं मंदारिन सीख रहा हूँ (main mandārin seekh rahā hoon)"
+    },
+    "the food is delicious": {
+        "Chinese (Simplified)": "食物很好吃 (shí wù hěn hǎo chī)",
+        "Hindi": "खाना स्वादिष्ट है (khānā svādiṣṭh hai)"
+    },
+    "i want a cup of tea": {
+        "Chinese (Simplified)": "我想要一杯茶 (wǒ xiǎng yào yī bēi chá)",
+        "Hindi": "मुझे एक कप चाय चाहिए (mujhe ek kap chāy chāhiye)"
+    },
+    "the weather is nice": {
+        "Chinese (Simplified)": "天气很好 (tiān qì hěn hǎo)",
+        "Hindi": "मौसम अच्छा है (mausam acchā hai)"
+    },
+    "how much is this?": {
+        "Chinese (Simplified)": "这个多少钱? (zhè ge duō shǎo qián?)",
+        "Hindi": "यह कितना है? (yah kitnā hai?)"
+    },
+    "i am at home": {
+        "Chinese (Simplified)": "我在家 (wǒ zài jiā)",
+        "Hindi": "मैं घर पर हूँ (main ghar par hoon)"
+    },
+    "he is my brother": {
+        "Chinese (Simplified)": "他是我的哥哥 (tā shì wǒ de gē gē)",
+        "Hindi": "वह मेरा भाई है (vah merā bhāī hai)"
+    },
+    "the train is on time": {
+        "Chinese (Simplified)": "火车准时到 (huǒ chē zhǔn shí dào)",
+        "Hindi": "ट्रेन समय पर है (ṭren samay par hai)"
+    },
+    "ancestor": {
+        "Chinese (Simplified)": "祖先 (zǔ xiān)",
+        "Hindi": "पूर्वज (purvaj)"
+    },
+    "ancestors": {
+        "Chinese (Simplified)": "祖先们 (zǔ xiān men)",
+        "Hindi": "पूर्वजों (purvajon)"
+    },
+    "decenters": {
+        "Chinese (Simplified)": "去中心化 (qù zhōng xīn huà)",
+        "Hindi": "अकेन्द्रित करता है (akendrit karta hai)"
+    },
+    "decenter": {
+        "Chinese (Simplified)": "去中心化 (qù zhōng xīn huà)",
+        "Hindi": "अकेन्द्रित करना (akendrit karna)"
+    },
+    "descendants": {
+        "Chinese (Simplified)": "后代 (hòu dài)",
+        "Hindi": "वंशज (vanshaj)"
+    },
+    "descendant": {
+        "Chinese (Simplified)": "后裔 (hòu yì)",
+        "Hindi": "वंशज (vanshaj)"
+    },
+    "tab": {
+        "Chinese (Simplified)": "标签页 (biāo qiān yè)",
+        "Hindi": "टैब (tab)"
+    },
+    "corporate": {
+        "Chinese (Simplified)": "企业的 (qǐ yè de)",
+        "Hindi": "कॉर्पोरेट (corporate)"
+    },
+    "globalization": {
+        "Chinese (Simplified)": "全球化 (quán qiú huà)",
+        "Hindi": "वैश्वीकरण (vaishvikaran)"
+    },
+    "cultivate": {
+        "Chinese (Simplified)": "培养 (péi yǎng)",
+        "Hindi": "संवर्धन करना (sanvardhan karna)"
+    },
+    "beak": {
+        "Chinese (Simplified)": "鸟嘴 (niǎo zuǐ)",
+        "Hindi": "चोंच (chonch)"
+    },
+    "teach": {
+        "Chinese (Simplified)": "教 (jiāo)",
+        "Hindi": "सिखाना (sikhana)"
+    },
+    "wick": {
+        "Chinese (Simplified)": "烛芯 (zhú xīn)",
+        "Hindi": "बाती (baati)"
+    },
+    "tip": {
+        "Chinese (Simplified)": "提示 (tí shì)",
+        "Hindi": "सुझाव (sujhav)"
+    },
+    "sneeze": {
+        "Chinese (Simplified)": "打喷嚏 (dǎ pēn tì)",
+        "Hindi": "छींक (cheenk)"
+    },
+    "couldn't": {
+        "Chinese (Simplified)": "不能 (bù néng)",
+        "Hindi": "नहीं कर सका (nahi kar saka)"
+    },
+    "wouldn't": {
+        "Chinese (Simplified)": "不会 (bù huì)",
+        "Hindi": "नहीं करेगा (nahi karega)"
+    },
+    "shouldn't": {
+        "Chinese (Simplified)": "不应该 (bù yīng gāi)",
+        "Hindi": "नहीं करना चाहिए (nahi karna chahiye)"
+    }
 }
 
 def translate_word(word, language):
